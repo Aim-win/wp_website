@@ -1,0 +1,793 @@
+# Translation of Themes - DigitalGrove in Spanish (Spain)
+# This file is distributed under the same license as the Themes - DigitalGrove package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-20 13:48:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - DigitalGrove\n"
+
+#. Theme Name of the theme
+#: style.css functions.php:54 patterns/footer.php:14
+#, gp-priority: high
+msgid "DigitalGrove"
+msgstr "DigitalGrove"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "DigitalGrove is a premium full-site editing theme designed for businesses, consulting firms, law practices, and educational institutions. It combines modern design with advanced functionality, enabling effortless customization of every website element. With seamless integrations like WooCommerce for e-commerce, WPML for multilingual support, and Contact Form 7 for efficient communication, DigitalGrove provides everything you need to create a polished and professional online presence. Whether you're building a consultancy, legal practice, or educational platform, its flexible templates and built-in SEO optimization ensure your site stands out and drives results. Demo: https://demos.themegrove.com/digitalgrove/"
+msgstr "DigitalGrove es un tema premium de edición de sitio completo, diseñado para empresas, consultoras, bufetes de abogados e instituciones educativas. Combina un diseño moderno con funcionalidades avanzadas, lo que permite personalizar fácilmente cada elemento del sitio web. Con integraciones fluidas como WooCommerce para comercio electrónico, WPML para soporte multilingüe y Contact Form 7 para una comunicación eficiente, DigitalGrove te ofrece todo lo necesario para crear una presencia online impecable y profesional. Tanto si estás desarrollando una consultoría, un bufete de abogados o una plataforma educativa, sus plantillas flexibles y su optimización SEO integrada garantizan que tu sitio web destaque y genere resultados. Demo: https://demos.themegrove.com/digitalgrove/"
+
+#: inc/theme-notice.php:6
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/theme-notice.php:3
+msgid "Upgrade to the Pro version to unlock advanced blocks and patterns, dedicated support, and theme installation with demo setup. Experience enhanced flexibility and receive dedicated support to effortlessly elevate your website to new heights of excellence."
+msgstr "Actualiza a la versión Pro para desbloquear bloques y patrones avanzados, el soporte dedicado y la instalación del tema con la configuración de la demo. Experimenta una flexibilidad mejorada y recibe el soporte dedicado para elevar sin esfuerzo tu sitio a nuevas cotas de excelencia."
+
+#: inc/theme-notice.php:2 inc/theme-notice.php:5
+msgid "DigitalGrove Pro"
+msgstr "DigitalGrove Pro"
+
+#: inc/theme-info.php:108
+msgid "If you require assistance with theme installation, demo setup, or customization, please feel free to reach out to us at support@themegrove.com or thmegrove@gmail.com. We are here to help!"
+msgstr "Si necesitas ayuda con la instalación del tema, la configuración de la demo o la personalización, no dudes en ponerte en contacto con nosotros a través de support@themegrove.com o thmegrove@gmail.com. ¡Estamos aquí para ayudarte!"
+
+#: inc/theme-info.php:104
+msgid "24/7 Support"
+msgstr "Soporte 24/7"
+
+#: inc/theme-info.php:99
+msgid "Fully Gutenberg Compatibility"
+msgstr "Compatibilidad total con Gutenberg"
+
+#: inc/theme-info.php:94
+msgid "Responsive Design"
+msgstr "Diseño adaptable"
+
+#: inc/theme-info.php:90
+msgid "Create and customize website content effortlessly by arranging various blocks such as text, images, and more within the Gutenberg editor, making web design accessible to all skill levels."
+msgstr "Crea y personaliza el contenido del sitio web fácilmente arreglando varios bloques como texto, imágenes y más en el editor Gutenberg, haciendo accesible el diseño web a todos los niveles."
+
+#: inc/theme-info.php:89
+msgid "Block-Based Customization"
+msgstr "Personalización basada en los bloques"
+
+#: inc/theme-info.php:77 inc/theme-info.php:113
+msgid "Buy Pro Now"
+msgstr "Comprar Pro ahora"
+
+#: inc/theme-info.php:73
+msgid "Pro Live Demo"
+msgstr "Demo de la versión Pro en directo"
+
+#: inc/theme-info.php:65
+msgid "Upgrade to the Pro version to unlock advanced blocks and patterns, dedicated support, and theme installation with demo setup. Experience enhanced flexibility and receive dedicated support to effortlessly elevate your website to new heights of excellence. "
+msgstr "Actualiza a la versión Pro para desbloquear bloques y patrones avanzados, el soporte dedicado y la instalación del tema con la configuración de la demo. Experimenta una mayor flexibilidad y recibe el soporte dedicado para elevar sin esfuerzo tu sitio a nuevas cotas de excelencia. "
+
+#: class/admin-info.php:22 class/admin-info.php:23
+msgid "DigitalGrove Theme"
+msgstr "Tema DigitalGrove"
+
+#: inc/theme-info.php:105
+msgid "Our dedicated support team is available around the clock to provide assistance, ensuring your website operates smoothly and addressing any technical issues, customization queries, or general inquiries at any time."
+msgstr "Nuestro equipo de soporte dedicado está disponible las veinticuatro horas del día para proporcionar asistencia, asegurando que tu sitio web funcione sin problemas y atendiendo cualquier problema técnico, consultas de personalización o preguntas generales en cualquier momento."
+
+#: inc/theme-info.php:100
+msgid "Enjoy a hassle-free content creation experience as Gutenberg themes are designed to fully integrate with the Gutenberg block editor, allowing you to easily create, edit, and maintain your website’s design within the editor’s environment."
+msgstr "Disfruta de una experiencia de creación de contenido sin complicaciones, ya que los temas de Gutenberg están diseñados para integrarse completamente con el editor de bloques de Gutenberg, lo que te permite crear, editar y mantener fácilmente el diseño de tu sitio web dentro del entorno del editor."
+
+#: inc/theme-info.php:95
+msgid "Ensure your website looks and functions flawlessly on various devices, from desktops to mobile devices, thanks to the responsive design of Gutenberg themes, providing an exceptional user experience."
+msgstr "Asegúrate de que tu sitio se vea y funcione a la perfección en distintos dispositivos, desde ordenadores de sobremesa hasta dispositivos móviles, gracias al diseño adaptable de los temas Gutenberg, que proporcionan una experiencia de usuario excepcional."
+
+#: inc/theme-info.php:81 inc/theme-info.php:117
+msgid "Supports"
+msgstr "Compatibilidad"
+
+#: styles/typography/typography-2.json
+msgctxt "Font family name"
+msgid "Roboto Serif"
+msgstr "Roboto Serif"
+
+#: styles/typography/typography-2.json
+msgctxt "Style variation name"
+msgid "RobotoSerif"
+msgstr "RobotoSerif"
+
+#: styles/typography/typography-1.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: styles/typography/typography-1.json
+msgctxt "Style variation name"
+msgid "Inter"
+msgstr "Inter"
+
+#: styles/sections/sections-3.json
+msgctxt "Style variation name"
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: styles/sections/sections-2.json
+msgctxt "Style variation name"
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: styles/sections/sections-1.json
+msgctxt "Style variation name"
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: styles/colors/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Rojo"
+
+#: styles/colors/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Rosa"
+
+#: styles/colors/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Verde"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with wide Image"
+msgstr "Página con imagen ancha"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With Sidebar"
+msgstr "Página con barra lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Title"
+msgstr "Página sin título"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Meta de la entrada"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr "Extra extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium Large"
+msgstr "Medio grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small medium"
+msgstr "Medio pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Button Hover Color"
+msgstr "Color del botón al pasar el cursor"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Dark Text Color"
+msgstr "Color oscuro del texto"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contraste"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "Negro"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "White"
+msgstr "Blanco"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr "Fondo secundario"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/colors/green.json styles/colors/pink.json
+#: styles/colors/red.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical soft beige to white"
+msgstr "Vertical de beige suave a blanco"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and pastel blue"
+msgstr "Negro y azul pastel"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and sage"
+msgstr "Negro y salvia"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and rust"
+msgstr "Negro y óxido"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and sandstone"
+msgstr "Negro y arenisca"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and white"
+msgstr "Negro y blanco"
+
+#: patterns/testimonials.php:27 patterns/testimonials.php:53
+msgid "Sollicitudin nulla laoreet sapien mattis ligula eget condimentum porta ad consectetur venenatis pellentesque dolor fusce cubilia accumsan torquent sagittis ornare cras eleifend mi gravida curabitur ridiculus conubia"
+msgstr "Sollicitudin nulla laoreet sapien mattis ligula eget condimentum porta ad consectetur venenatis pellentesque dolor fusce cubilia accumsan torquent sagittis ornare cras eleifend mi gravida curabitur ridiculus conubia"
+
+#: patterns/testimonials-two.php:34 patterns/testimonials-two.php:58
+#: patterns/testimonials-two.php:82 patterns/testimonials.php:37
+#: patterns/testimonials.php:63
+msgid "Micheal Wong"
+msgstr "Micheal Wong"
+
+#: patterns/testimonials-two.php:24 patterns/testimonials-two.php:48
+#: patterns/testimonials-two.php:72
+msgid "“Rhoncus eget quisque tempus lectus mi maecenas vitae sodales”"
+msgstr "«Rhoncus eget quisque tempus lectus mi maecenas vitae sodales»"
+
+#: patterns/testimonials-two.php:17 patterns/testimonials.php:17
+msgid "What Our Clients Say"
+msgstr "Lo que dicen nuestros clientes"
+
+#: patterns/testimonials-two.php:13 patterns/testimonials.php:13
+msgid "Testimonial"
+msgstr "Recomendación"
+
+#: patterns/testimonials-two.php
+msgctxt "Pattern title"
+msgid "Testimonials Two"
+msgstr "Recomendación dos"
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Tesitmonials"
+msgstr "Recomendaciones"
+
+#: patterns/testimonials-page.php
+msgctxt "Pattern title"
+msgid "Testimonials page"
+msgstr "Página de recomendaciones"
+
+#: patterns/single-product.php:57
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr "Producto individual"
+
+#: patterns/single-post.php
+msgctxt "Pattern title"
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: patterns/single-page.php
+msgctxt "Pattern title"
+msgid "Single Page"
+msgstr "Página individual"
+
+#: patterns/sidebar.php:31
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/sidebar.php:23
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: patterns/services.php:36 patterns/services.php:54 patterns/services.php:72
+#: patterns/services.php:90
+msgid "View Details"
+msgstr "Ver los detalles"
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Servicios"
+
+#: patterns/services-two.php:86 patterns/services.php:82
+msgid "Digital Marketing"
+msgstr "Marketing digital"
+
+#: patterns/services-two.php:72 patterns/services.php:64
+msgid "Mobile Development"
+msgstr "Desarrollo móvil"
+
+#: patterns/services-two.php:56 patterns/services.php:46
+msgid "Web Development"
+msgstr "Desarrollo web"
+
+#: patterns/services-two.php:46 patterns/services-two.php:60
+#: patterns/services-two.php:76 patterns/services-two.php:90
+#: patterns/services.php:32 patterns/services.php:50 patterns/services.php:68
+#: patterns/services.php:86
+msgid "Cubilia eget integer cursus aliquet lacinia. Pede pharetra phasellus elit"
+msgstr "Cubilia eget integer cursus aliquet lacinia. Pede pharetra phasellus elit"
+
+#: patterns/services-two.php:28
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: patterns/services-two.php:23
+msgid "Lobortis nostra purus pretium tristique porta vivamus dis dapibus. Ridiculus lectus molestie rutrum aliquam primis dictum. Quis ante erat enim duis hendrerit interdum aenean. Magna aliquam curae lacinia sociosqu placerat curabitur nec habitasse pede."
+msgstr "Lobortis nostra purus pretium tristique porta vivamus dis dapibus. Ridiculus lectus molestie rutrum aliquam primis dictum. Quis ante erat enim duis hendrerit interdum aenean. Magna aliquam curae lacinia sociosqu placerat curabitur nec habitasse pede."
+
+#: patterns/services-two.php:19 patterns/services.php:17
+msgid "Growth Based Services"
+msgstr "Servicios basados en el crecimiento"
+
+#: patterns/services-two.php:15 patterns/services.php:13
+msgid "Our Services"
+msgstr "Nuestros Servicios"
+
+#: patterns/services-two.php
+msgctxt "Pattern title"
+msgid "Services Two"
+msgstr "Servicios dos"
+
+#: patterns/services-page.php
+msgctxt "Pattern title"
+msgid "Services Page"
+msgstr "Página de servicios"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/post.php
+msgctxt "Pattern title"
+msgid "Post"
+msgstr "Entrada"
+
+#: patterns/portfolio.php:50
+msgid "View More"
+msgstr "Ver más"
+
+#: patterns/portfolio.php:17
+msgid "Our Previous Works"
+msgstr "Nuestros trabajos anteriores"
+
+#: patterns/portfolio.php:13
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: patterns/portfolio.php
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: patterns/header.php:22
+msgid "Talk to us"
+msgstr "Habla con nosotros"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Cabecera"
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: patterns/footer.php:72
+msgid "Themegrove.com"
+msgstr "Themegrove.com"
+
+#: patterns/footer.php:72
+msgid "DigitalGrove Developed By"
+msgstr "Desarrollado por DigitalGrove"
+
+#: patterns/footer.php:64
+msgid "Add yours from shortcode"
+msgstr "Añade el tuyo desde el shortcode"
+
+#: patterns/footer.php:60
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: patterns/footer.php:52
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: patterns/footer.php:46
+msgid "Example@example.com"
+msgstr "Example@example.com"
+
+#: patterns/footer.php:42
+msgid "+25-1102-2533"
+msgstr "+25-1102-2533"
+
+#: patterns/footer.php:38
+msgid "304 Oakwood Ave"
+msgstr "304 Oakwood Ave"
+
+#: patterns/footer.php:34
+msgid "Address"
+msgstr "Dirección"
+
+#: patterns/footer.php:18
+msgid "Suspendisse feugiat. Nulla facilisi. Vestibulum turpis sem"
+msgstr "Suspendisse feugiat. Nulla facilisi. Vestibulum turpis sem"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: patterns/checkout.php
+msgctxt "Pattern title"
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: patterns/cart.php:84
+msgid "New in store"
+msgstr "Nuevo en la tienda"
+
+#: patterns/cart.php:76
+msgid "Your cart is currently empty!"
+msgstr "¡Tu carrito está actualmente vacío!"
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr "Puede que te interese…"
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr "Carrito"
+
+#: patterns/brands.php:14
+msgid "Top Companies"
+msgstr "Las mejores empresas"
+
+#: patterns/brands.php:14
+msgid "Trusted by"
+msgstr "Con la confianza de"
+
+#: patterns/brands.php
+msgctxt "Pattern title"
+msgid "Brands"
+msgstr "Marcas"
+
+#: patterns/blog-right.php:10
+msgid "Blog Right Sidebar"
+msgstr "Barra lateral derecha del blog"
+
+#: patterns/blog-right.php
+msgctxt "Pattern title"
+msgid "Blog Right"
+msgstr "Blog a la derecha"
+
+#: patterns/blog-left.php:9
+msgid "Blog Left Sidebar"
+msgstr "Barra lateral izquierda del blog"
+
+#: patterns/blog-left.php
+msgctxt "Pattern title"
+msgid "Blog Left"
+msgstr "Blog a la izquierda"
+
+#: patterns/banner.php:19
+msgid "Pellentesque dapibus hendrerit tortor. Cras non dolor. Fusce vel dui. Mauris turpis nunc, blandit et, volutpat molestie, porta ut, ligula. Cras sagittis."
+msgstr "Pellentesque dapibus hendrerit tortor. Cras non dolor. Fusce vel dui. Mauris turpis nunc, blandit et, volutpat molestie, porta ut, ligula. Cras sagittis."
+
+#: patterns/banner.php:15
+msgid "Worldwide Digital Solution Agency"
+msgstr "Agencia mundial para soluciones digitales"
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Featured Banner"
+msgstr "Banner destacado"
+
+#: patterns/articles.php:17
+msgid "Browse Articles"
+msgstr "Consulta los artículos"
+
+#: patterns/articles.php:13 patterns/post.php:10
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/articles.php
+msgctxt "Pattern title"
+msgid "Articles"
+msgstr "Artículos"
+
+#: patterns/archive.php:43 patterns/blog-left.php:49 patterns/blog-right.php:46
+#: patterns/post.php:46 patterns/search.php:44
+msgid "No posts found"
+msgstr "No se han encontrado entradas"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr "Archivo"
+
+#: patterns/archive-product.php:55
+msgid "No products were found matching your selection."
+msgstr "No se han encontrado productos que coincidan con tu selección."
+
+#: patterns/archive-product.php
+msgctxt "Pattern title"
+msgid "Archive Product"
+msgstr "Archivo de producto"
+
+#: patterns/about-us.php:68
+msgid "Read More"
+msgstr "Leer más"
+
+#: patterns/about-us.php:57
+msgid "Our Mission"
+msgstr "Nuestra misión"
+
+#: patterns/about-us.php:45 patterns/about-us.php:61
+msgid "Molestie lorem nam purus eget ultrices. Imperdiet ligula lobortis eleifend morbi nulla. Porttitor mi purus efficitur"
+msgstr "Molestie lorem nam purus eget ultrices. Imperdiet ligula lobortis eleifend morbi nulla. Porttitor mi purus efficitur"
+
+#: patterns/about-us.php:41
+msgid "Our Vision"
+msgstr "Nuestra visión"
+
+#: patterns/about-us.php:31
+msgid "Lorem proin parturient letius curae erat augue posuere fermentum. Malesuada parturient litora orci fermentum a. Quis aliquam ultrices auctor adipiscing malesuada commodo a lobortis potenti sapien molestie. Tellus dictumst amet dis tortor mattis. Commodo vel natoque pede neque cubilia ullamcorper urna praesent. Vulputate eu duis sollicitudin donec id."
+msgstr "Lorem proin parturient letius curae erat augue posuere fermentum. Malesuada parturient litora orci fermentum a. Quis aliquam ultrices auctor adipiscing malesuada commodo a lobortis potenti sapien molestie. Tellus dictumst amet dis tortor mattis. Commodo vel natoque pede neque cubilia ullamcorper urna praesent. Vulputate eu duis sollicitudin donec id."
+
+#: patterns/about-us.php:17
+msgid "Why We Are Best"
+msgstr "Porque somos los mejores"
+
+#: patterns/about-us.php
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: patterns/about-us-two.php:51 patterns/banner.php:49
+msgid "Clients Worldwide"
+msgstr "Clientes en todo el mundo"
+
+#: patterns/about-us-two.php:47 patterns/banner.php:45
+msgid "400+"
+msgstr "Más de 400"
+
+#: patterns/about-us-two.php:41 patterns/banner.php:39
+msgid "Years of Experience"
+msgstr "Años de experiencia"
+
+#: patterns/about-us-two.php:31 patterns/banner.php:29
+msgid "Project Completed"
+msgstr "Proyectos completados"
+
+#: patterns/about-us-two.php:27 patterns/banner.php:25
+msgid "75k"
+msgstr "75 mil"
+
+#: patterns/about-us-two.php:21
+msgid "Magnis nisl dictum molestie luctus nulla nunc per dis volutpat convallis faucibus class massa maximus nisi si suscipit ultricies congue erat lorem eu tempus aptent justo dapibus. Facilisi senectus conubia donec odio est mauris per feugiat morbi nullam."
+msgstr "Magnis nisl dictum molestie luctus nulla nunc per dis volutpat convallis faucibus class massa maximus nisi si suscipit ultricies congue erat lorem eu tempus aptent justo dapibus. Facilisi senectus conubia donec odio est mauris per feugiat morbi nullam."
+
+#: patterns/about-us-two.php:16 patterns/about-us.php:13
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: patterns/about-us-two.php
+msgctxt "Pattern title"
+msgid "About Us Two"
+msgstr "Sobre nosotros dos"
+
+#: patterns/about-us-three.php:34
+msgid "Meet us"
+msgstr "Conócenos"
+
+#: patterns/about-us-three.php:29
+msgid "Congue duis quam eu iaculis tristique mus curae elit torquent suscipit. Nullam rutrum dapibus potenti platea conubia diam id maecenas nisi suscipit accumsan."
+msgstr "Congue duis quam eu iaculis tristique mus curae elit torquent suscipit. Nullam rutrum dapibus potenti platea conubia diam id maecenas nisi suscipit accumsan."
+
+#: patterns/about-us-three.php:21
+msgid "Why We Are Best ?"
+msgstr "¿Porqué somos los mejores?"
+
+#: patterns/about-us-three.php
+msgctxt "Pattern title"
+msgid "About Us Three"
+msgstr "Sobre nosotros tres"
+
+#: patterns/about-us-page.php
+msgctxt "Pattern title"
+msgid "About Us Page"
+msgstr "Página «Sobre nosotros»"
+
+#: patterns/404.php:25
+msgid "Go to home page"
+msgstr "Ir a la página de inicio"
+
+#: patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr "¡Parece que la pista de baile está vacía! Esta página ha desaparecido. Vuelve al escenario principal haciendo clic en los enlaces de navegación y ¡que siga la fiesta!"
+
+#: patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr "404: Página no disco-ubierta"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/about-us-three.php:25
+msgid "Dis elit vehicula gravida pellentesque nullam risus odio augue tellus. Dictum euismod posuere velit pellentesque pulvinar. Aptent arcu metus sit congue pede. Dolor elementum proin etiam aenean consectetuer. Mollis erat risus accumsan donec senectus in mauris potenti euismod diam et. Rhoncus nisl eros per sagittis dui cubilia augue."
+msgstr "Dis elit vehicula gravida pellentesque nullam risus odio augue tellus. Dictum euismod posuere velit pellentesque pulvinar. Aptent arcu metus sit congue pede. Dolor elementum proin etiam aenean consectetuer. Mollis erat risus accumsan donec senectus in mauris potenti euismod diam et. Rhoncus nisl eros per sagittis dui cubilia augue."
+
+#: patterns/services-two.php:42 patterns/services.php:28
+msgid "Branding and UI/UX"
+msgstr "Imagen de marca y UI/UX"
+
+#: patterns/about-us-two.php:37 patterns/banner.php:35
+msgid "20+"
+msgstr "Más de 20"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrove.com/"
+msgstr "https://themegrove.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themegrove"
+msgstr "Themegrove"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrove.com/products/digitalgrove/"
+msgstr "https://themegrove.com/products/digitalgrove/"
